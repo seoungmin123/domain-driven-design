@@ -2,22 +2,22 @@
 
 ## 리팩토링 전 코드 (pay0)
 
-- [PayService.java](../src/main/java/com/example/domain_driven/poly/ex/pay0/PayService.java)
-- [KakaoPay.java](../src/main/java/com/example/domain_driven/poly/ex/pay0/KakaoPay.java)
-- [NaverPay.java](../src/main/java/com/example/domain_driven/poly/ex/pay0/NaverPay.java)
-- [PayMain0.java](../src/main/java/com/example/domain_driven/poly/ex/pay0/PayMain0.java)
+- [PayService.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay0/PayService.java)
+- [KakaoPay.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/domain_driven/poly/ex/pay0/KakaoPay.java)
+- [NaverPay.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay0/NaverPay.java)
+- [PayMain0.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay0/PayMain0.java)
 
 ## 리팩토링 후 코드 (pay2)
 
-- [Pay.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/Pay.java)
-- [PayService.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/PayService.java)
-- [PayStore.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/PayStore.java)
-- [KakaoPay.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/KakaoPay.java)
-- [NaverPay.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/NaverPay.java)
-- [NewPay.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/NewPay.java)
-- [DefaultPay.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/DefaultPay.java)
-- [PayMain1.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/PayMain1.java)
-- [PayMain2.java](../src/main/java/com/example/domain_driven/poly/ex/pay2/PayMain2.java)
+- [Pay.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/Pay.java)
+- [PayService.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/PayService.java)
+- [PayStore.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/PayStore.java)
+- [KakaoPay.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/KakaoPay.java)
+- [NaverPay.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/NaverPay.java)
+- [NewPay.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/NewPay.java)
+- [DefaultPay.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/DefaultPay.java)
+- [PayMain1.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/PayMain1.java)
+- [PayMain2.java](https://github.com/seoungmin123/domain-driven-design/blob/java_practice/src/main/java/com/example/domain_driven/poly/ex/pay2/PayMain2.java)
 
 ## 원본 코드의 문제점
 
